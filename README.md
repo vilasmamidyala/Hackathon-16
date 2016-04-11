@@ -12,3 +12,12 @@ We then executed the queries and the output of the queries is stored in JSON fil
 This JSON file input is then converted into csv files and this files are used for further steps.
 For visualization we used d3.js, which is a html, css and svg code which give the graphical visualization in the form of various graphs and charts.
 The csv generated eaarlier were used as input to the d3.js code for each visualization.
+
+Youtube link:
+
+https://youtu.be/EKcHBLNYm4c
+
+
+
+
+
